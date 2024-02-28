@@ -12,8 +12,7 @@ export default {
 
 <style>
 h1 {
-    padding: 2em;
-    text-align: center;
+    width: 15ch;
     font-style: italic;
 
 }
